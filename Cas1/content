@@ -1,3 +1,28 @@
+// GIT
+
+/*
+    1. Download Git
+    2. Create a new repository
+    2.1 Go to github.com and login to your profile (create new profile)
+    2.2 Create new repository and copy the url link generated for the new repository
+    3. Open a local folder when you would like to save your git repository and open a terminal at that location
+    3.1 in the terminal type 'git clone [repository URL]' - this will clone the empty repository
+    3.2 type git checkout -b master to create the master branch
+    3.3 Create your project's structure
+    4. When you are done with your project's structure you can upload your changes to your remote repo
+    5. This is achieved in three stages, @ your local repo you have three so called trees: Working directory, Index and HEAD
+        - Working Directory are the actual files you are working on
+        - Index is the staging area, here we will put files that we want to commit for uploading
+        - HEAD is the commit area where we keep our last commit
+    6. After we have commited some files 'git commit -m ['Message goes here']' we use the command
+    'git push origin [branch_name]' to push to the branch we want
+    7. To get the latest version from the remote repository we use the 'git pull' command
+ */
+
+
+
+
+
 // 1. variables
 
 let a; // (undefined)
