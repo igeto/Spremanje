@@ -27,7 +27,7 @@
 
 let a; // (undefined)
 let b = 2018; // (number)
-let c = 'SEDC WebDev v5'; // (string)
+let c = 'Some kind of text value'; // (string)
 let d = true; // (boolean)
 
 // declares and intializes 3 variables by matching the variable names and values on the same possitions in the arrays
